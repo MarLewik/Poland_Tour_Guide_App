@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Poland Tour Guide</string>
+
+    <!--Categorys-->
+    <string name="category_castles">Castles</string>
+    <string name="category_mines">Mines</string>
+    <string name="category_lighthouses">Lighthouses</string>
+    <string name="category_cemeteries">Cemeteries</string>
+    <string name="category_bridges">Bridges</string>
+
+
+    <!--Castles-->
+    <string name="malbork">Malbork</string>
+    <string name="malbork_description">From Wikipedia
+    The Castle of the Teutonic Order in Malbork[1] (Polish: zamek w Malborku; German: Ordensburg Marienburg) was built in the 13th century in Prussia and is currently located near the town of Malbork, Poland. It is the largest castle in the world measured by land area.[2]
+    It was originally built by the Teutonic Knights, a German Roman Catholic religious order of crusaders, in a form of an Ordensburg fortress. The Order named it Marienburg (Marys Castle).
+    The town which grew around it was also named Marienburg. In 1466, during the division of Prussia into eastern and western parts the castle and town became part of western Royal Prussia. It served as one of the several Polish royal residences, interrupted by several years of Swedish occupation, and fulfilling this function until the Kingdom of Prussia re-united Prussia and claimed the castle at the time of the First Partition of Poland in 1772. During conquest by the Soviet Union the land was granted to Poland in 1945. Heavily damaged after World War II, the castle was renovated under the auspices of modern-day Poland in the second half of the 20th century and most recently in 2016. Nowadays, the castle hosts exhibitions and serves as a museum.</string>
+
+    <string name="krzyztopor">Krzyztopor</string>
+    <string name="krzyztopor_description">From Wikipedia
+    The Castle of the Teutonic Order in Malbork[1] (Polish: zamek w Malborku; German: Ordensburg Marienburg) was built in the 13th century in Prussia and is currently located near the town of Malbork, Poland. It is the largest castle in the world measured by land area.[2]
+    It was originally built by the Teutonic Knights, a German Roman Catholic religious order of crusaders, in a form of an Ordensburg fortress. The Order named it Marienburg (Marys Castle).
+    The town which grew around it was also named Marienburg. In 1466, during the division of Prussia into eastern and western parts the castle and town became part of western Royal Prussia. It served as one of the several Polish royal residences, interrupted by several years of Swedish occupation, and fulfilling this function until the Kingdom of Prussia re-united Prussia and claimed the castle at the time of the First Partition of Poland in 1772. During conquest by the Soviet Union the land was granted to Poland in 1945. Heavily damaged after World War II, the castle was renovated under the auspices of modern-day Poland in the second half of the 20th century and most recently in 2016. Nowadays, the castle hosts exhibitions and serves as a museum.</string>
+
+
+    <string name="wawel">Wawel Royal</string>
+    <string name="wawel_description">From Wikipedia
+    The Castle of the Teutonic Order in Malbork[1] (Polish: zamek w Malborku; German: Ordensburg Marienburg) was built in the 13th century in Prussia and is currently located near the town of Malbork, Poland. It is the largest castle in the world measured by land area.[2]
+    It was originally built by the Teutonic Knights, a German Roman Catholic religious order of crusaders, in a form of an Ordensburg fortress. The Order named it Marienburg (Marys Castle).
+    The town which grew around it was also named Marienburg. In 1466, during the division of Prussia into eastern and western parts the castle and town became part of western Royal Prussia. It served as one of the several Polish royal residences, interrupted by several years of Swedish occupation, and fulfilling this function until the Kingdom of Prussia re-united Prussia and claimed the castle at the time of the First Partition of Poland in 1772. During conquest by the Soviet Union the land was granted to Poland in 1945. Heavily damaged after World War II, the castle was renovated under the auspices of modern-day Poland in the second half of the 20th century and most recently in 2016. Nowadays, the castle hosts exhibitions and serves as a museum.</string>
+
+    <string name="niedzica">Niedzica</string>
+    <string name="niedzica_description">From Wikipedia
+        Niedzica Castle also known as Dunajec Castle (Latin: Castrum de Dunajecz, Hungarian: Nedec Váralja / Nedec-Vár, German: Sub-Arx Unterschloss, Slovak: Nedecký hrad), is located in the southernmost part of Poland in Niedzica (Nowy Targ County in Lesser Poland). It was erected between the years 1320 and 1326 by Kokos of Brezovica on the site of an ancient stronghold surrounded by earthen walls in the Pieniny mountains. The Niedzica Castle stands at an altitude of 566 m, on a hill 300 metres (980 ft) upstream from the Dunajec River mouth, measured from the center of the dam on Lake Czorsztyn. The outline of Niedzica Castle can best be viewed from the ruins of Czorsztyn Castle on the other side of the lake. It is known as one of the most picturesque castles in the country and adorns the covers of many books.</string>
+
+    <!--Mines-->
+
+    <string name="wieliczka">Wieliczka</string>
+    <string name="wieliczka_description">From Wikipedia
+        The Wieliczka Salt Mine (Polish: Kopalnia soli Wieliczka), located in the town of Wieliczka in southern Poland, lies within the Kraków metropolitan area. Opened in the 13th century, the mine produced table salt continuously until 2007, as one of the worlds oldest salt mines in operation. Throughout, the royal mine was run by the Żupy krakowskie Salt Mines company.
+        Commercial mining was discontinued in 1996, because of salt prices going down and also mine flooding.[2][3] The mine is currently one of Polands official national Historic Monuments (Pomniki historii), whose attractions include dozens of statues and four chapels carved out of the rock salt by the miners, as well as supplemental carvings made by contemporary artists.</string>
+
+    <string name="guido">Guido</string>
+    <string name="guido_description">From Wikipedia
+        TThe Guido mine was set up in 1855 by Guido Henckel von Donnersmarck (1830-1916) to provide coal for the Donnersmarck mills. Maximum production was in 1885 when 312,976 tonnes of coal were cut. When the coal was worked out it continued to draw water from adjacent mines. This function declined in the 1930s and the mine closed in 1960. In 1967 the colliery it reopen as a test mine for colliery machines. It 1987 the site was given listed status. Shortly before, in 1982, an open-air museum had been set up on the surface site: that closed in 1996. The current visitor mine museum opened to 170m in 2007 and to the full 320m in 2008. [1]
+        Technically the early mine had to contend with sand and the Saara tectonic fault. The first shaft, the 1856 Barbara shaft was abandoned at 30m. The second shaft, the Concordia shaft was renamed the Guido shaft. Exploratory mining at 80m was abandoned due to faulting. At 117m water was struck. Financial assistance was received from the Upper Silesian Railway Association German: Oberschlesische Eisenbahn Gesellschaft. Guido was drained, and a new shaft, the Railway shaft was dug- the 170m level was exploited using shortwall excavation. The workings were bought in 1887 by the Prussian Finanzamt- and merge with the Queen Louisa Mine. Guido and Railway were deeped to 320m, the 170m had been worked out. In 1912 the Guido mine was merged with the newly built Delbrück mine (Makoszowy Coal Mine-post 1945) and coking plant. Silesia was partitioned in 1922, and the Delbrück mine (with “Guido” mine) was made over to Prussian Preussag mining company. In 1928, the Guido shaft was closed down and the Railway shaft became transporting shaft for the crew and materials.[2]</string>
+
+    <string name="klodawa">Klodawa Salt</string>
+    <string name="klodawa_description">From Wikipedia
+        The Kłodawa Salt Mine (Polish: Kopalnia Soli Kłodawa, KSK) is the biggest operating salt mine in Poland. It is located in Kłodawa, Koło County, Greater Poland Voivodship.
+        In 1939 Polish professor Edward Walery Janczewski discovered geological layer of salt between Izbica Kujawska and Solca Wielka. It was 63 kilometres long and 4 kilometres wide. First drillings were done during German occupation of Poland and it was released that Kłodawa is the best place to build a salt mine; it was also said that Izbica Kujawska had a good salt supply, but much smaller than Kłodawa.</string>
+
+    <!--Lighthouses-->
+    <string name="kolobrzeg">Kolobrzeg</string>
+    <string name="kolobrzeg_description">From Wikipedia
+    Kołobrzeg Lighthouse (Polish: Latarnia Morska Kołobrzeg) - a lighthouse in Kołobrzeg on the Polish coast of the Baltic Sea. The lighthouse in located in Kołobrzeg, West Pomeranian Voivodeship; in Poland.[2]
+        The lighthouse is located in between the lighthouse in Niechorze (about 34 km to the west) and the lighthouse in Gąski (22 km to the east).</string>
+
+    <string name="swinoujscie">Swinoujscie</string>
+    <string name="swinoujscie_description">
+    From Wikipedia
+        Świnoujście Lighthouse, also known as Swinemünde Lighthouse, is an active lighthouse in Świnoujście (German: Swinemünde), Poland. At a height of 212 feet (65 m) it is the fifteenth tallest "traditional lighthouse" in the world, as well as the tallest brick lighthouse,[3] and the tallest in Poland. It is located on the east bank of the river Świna just inside the entrance. </string>
+
+    <string name="hel">Hel</string>
+    <string name="hel_description">
+    From Wikipedia
+    Hel Lighthouse is an active lighthouse in the town of Hel, Pomeranian Voivodeship in Poland. It is situated at the eastern tip of the Hel peninsula and guides ship traffic into Gdańsk Bay and the Bay of Puck.</string>
+
+    <string name="stilo">Stilo</string>
+    <string name="stilo_description">
+    From Wikipedia
+    Stilo Lighthouse (Polish: Latarnia Morska Stilo) - a lighthouse located in Osetnik (formerly Stilo) on the Polish coast of the Baltic Sea, close to the village of Sasino.[3]
+    The lighthouse is located in between the Czołpino Lighthouse and the Rozewie Lighthouse.
+        The lighthouse as built in between 1904-1906 by the plans of German architect Walter Körteg. The lighthouse was constructed out of a wooden frame, by the company Julius Pintsch from Berlin.[5] Formerly the lighthouse had a rotating beacon powered by 110 V. In 1926, the lighthouse had undergone modernisation, when the former light system was replaced by a light bulb with the power of 2000 V, installing an additional emergency gas-powered system.[6] In 2006, on the lighthouses one hundredth year of existence - the lighthouse had undergone a complete renovation; which included a new exterior paint-scheme; a characteristic of the lighthouse</string>
+
+    <!--Cemeteries-->
+
+    <string name="powazki">Powazki</string>
+    <string name="powazki_description">
+    From Wikipedia
+        Powązki Cemetery (Polish pronunciation: [pɔˈvɔ̃skʲi]; Polish: Cmentarz Powązkowski), also known as the Stare Powązki (English: Old Powązki) is a historic cemetery located in the Wola district, western part of Warsaw, Poland. It is the most famous cemetery in the city, and one of the oldest, having been established in 1790. The necropolis features graves of many illustrious individuals from Polish history, including those interred along the "Avenue of Notables" (Aleja Zasłużonych) created in 1925. It is estimated that over 1 million people have been buried at Powązki.</string>
+
+    <string name="central_szczecin">Central Szczecin</string>
+    <string name="central_szczecin_description">From Wikipedia
+    The Central Cemetery in Szczecin is a municipal cemetery in Szczecin, Poland. With an area of over 167,8 hectares,[1] and still expanding, it officially the largest cemetery in Poland and the third largest cemetery in Europe
+        The Central Cemetery in Szczecin was established in 1901[2] as a new and modern cemetery in what was then Stettin in German Pomerania. It was formerly called the Hauptfriedhof Stettin (Stettin Main Cemetery) and was modeled on the Ohlsdorf Cemetery in Hamburg, Germany. Even though it has been operating for more than 100 years, it is still in use, and it is a legally protected national monument.</string>
+
+    <string name="rakowicki_krakow">Rakowicki Krakow</string>
+    <string name="rakowicki_krakow_description">From Wikipedia
+        Rakowicki Cemetery (Polish: Cmentarz Rakowicki) is a cemetery in Poland, located in the centre of Kraków. It lies within the Administrative District No. 1 Stare Miasto meaning "Old Town" – distinct from with the historic Kraków Old Town further west. Founded at the beginning of the 19th century when the region was part of Austria-Hungary, the cemetery was expanded several times, and at present covers an area of about 42 hectares. Many notable Cracovians, among them the parents of Pope John Paul II, are buried here</string>
+
+    <!--Bridges-->
+    <string name="tumski_wroclaw">Tumski Wroclaw</string>
+    <string name="tumski_wroclaw_description">From Wikipedia
+    Tumski Bridge (Polish: Most Tumski) is a steel bridge over the north branch of the Oder river in Wrocław, Poland. Constructed in 1889 it replaced an old wooden bridge to connect Ostrów Tumski and Wyspa Piaskowa. Until 1945, its name was Dombrücke.
+    It is an old road bridge now open to pedestrians only.
+    Tumski Bridge is also called Lovers Bridge, Cathedral Bridge or Green Bridge. Its a place of enamoured tradition for lovers. The bridge is full of love locks which lovers leave to cherish their feelings. An important part of the ceremony is to throw the key into the Odra river.
+        In 1992 it was comprehensively renovated. During the renovation the original deck covering of Zores sections was replaced by an orthotropic deck.</string>
+
+    <string name="father_bernatek">Father Bernatek Footbridge</string>
+    <string name="father_description">From Wikipedia
+        Opened on September 30th, 2010, the Father Bernatek Footbridge (Kładka Ojca Bernatka) straddles the Wisła River just south of the centre, linking the districts of Kazimierz and Podgórze between ul. Mostowa and ul. Nadwiślańska where several road bridges had stood in its place before, the last being dismantled way back in 1925. The leaf-shaped, 130m structure accommodates both pedestrians and cyclists with its twin walkway design by local architect Andrzej Getter.</string>
+
+    <string name="st_john">St John Klodzko</string>
+    <string name="st_john_description">This stone bridge is one of the oldest historic sites in Kłodzko, an example of a construction rarely found elsewhere in Europe. It is often called the Charles Bridge in miniature due to its resemblance to its famous Prague counterpart.
+        This medieval stone bridge has been in use for around 600 years now, yet remains in good condition. We do not know for sure when exactly it was constructed as the legends and chronicles are often contradictory. We do know that it was erected between 1281 and 1390 on the site of an older, wooden crossing.</string>
+
+
+</resources>

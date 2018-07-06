@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#a82200</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#730000</color>
+    <!-- Background color for app -->
+    <color name="colorAccent">#ff9c6b</color>
+
+    <!-- Background color for the Bridges category -->
+    <color name="category_cities">#ff9c6b</color>
+
+    <!-- Background color for the Castles category -->
+    <color name="category_castles">#ff9c6b</color>
+
+    <!-- Background color for the Cemeteries category -->
+    <color name="category_mountains">#ff9c6b</color>
+
+    <!-- Background color for the Lighthouses category -->
+    <color name="category_monasteries">#ff9c6b</color>
+
+    <!-- Background color for the Mines category -->
+    <color name="category_unesco_sites">#ff9c6b</color>
+
+    <color name="background_color_tablayout">#ffa21f</color>
+
+    <color name="textColor_list_item">#732a00</color>
+
+    <color name="colorPrimaryDark_MyTheme">#ff9c6b</color>
+
+    <color name="tabIndicatorColor">#732a00</color>
+
+    <color name="tabSelectedTextColor">#732a00</color>
+
+    <color name="tabLayoutTextStyle_Color">#A8A19E</color>
+
+</resources>
